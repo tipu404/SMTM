@@ -1,0 +1,13 @@
+numpy
+pandas
+nltk
+scikit-learn
+gensim
+matplotlib
+seaborn
+joblib
+pyLDAvis==2.1.2
+scipy
+scikit-optimize
+pyunpack
+spacy
